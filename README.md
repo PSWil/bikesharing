@@ -20,7 +20,7 @@ This visualization shows the breakdown of riders by gender and duration of times
 
 To further these findings, this visualizations shows that the most common user is a male subscriber (meaning that they have signed up for a long term contract with citi bike) and there most frequent day of the week to ride on is Thursday.
 
-![alt text](https://github.com/PSWil/bikesharing/blob/main/Resources/Trips_by_gender.png)
+![alt text](https://github.com/PSWil/bikesharing/blob/main/Resources/Trips_weekday_gender.png)
 
 ### When are users using the bikes?
 This visualizations shows that weekday rider traffic peaks at traditional commuting times, while weekends see gradual use throughout the day.
@@ -28,7 +28,7 @@ This visualizations shows that weekday rider traffic peaks at traditional commut
 ![alt text](https://github.com/PSWil/bikesharing/blob/main/Resources/Trips_by_weekday.png)
 
 
-![alt text](https://github.com/PSWil/bikesharing/blob/main/Resources/Trips_weekday_gender.png)
+![alt text](https://github.com/PSWil/bikesharing/blob/main/Resources/Trips_by_gender.png)
 
 ### Where are they biking to and from?
 These two visualizations show the the top starting and ending locations. The first thing to note is that most rides start in the most populous areas in mid and lower Manhattan. Second, due to shorter ride times, the ending locations are also in those same populous areas.
