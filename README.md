@@ -27,12 +27,15 @@ This visualizations shows that weekday rider traffic peaks at traditional commut
 
 ![alt text](https://github.com/PSWil/bikesharing/blob/main/Resources/Trips_by_weekday.png)
 
+Additionally, there is no differenece in patern when broken down by gender.
 
 ![alt text](https://github.com/PSWil/bikesharing/blob/main/Resources/Trips_by_gender.png)
 
 ### Where are they biking to and from?
-These two visualizations show the the top starting and ending locations. The first thing to note is that most rides start in the most populous areas in mid and lower Manhattan. Second, due to shorter ride times, the ending locations are also in those same populous areas.
+These two visualizations show the the top starting and ending locations. The first thing is that most rides start in the most populous areas in mid and lower Manhattan. Second, due to shorter ride times, the ending locations are also in those same populous areas but generally further away from the city center.
 
 ![alt text](https://github.com/PSWil/bikesharing/blob/main/Resources/Top_start_loc.png)
 
 ![alt text](https://github.com/PSWil/bikesharing/blob/main/Resources/Top_end_loc.png)
+
+## Summary
