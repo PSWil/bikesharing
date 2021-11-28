@@ -39,3 +39,10 @@ These two visualizations show the the top starting and ending locations. The fir
 ![alt text](https://github.com/PSWil/bikesharing/blob/main/Resources/Top_end_loc.png)
 
 ## Summary
+
+Using Tableau with our data, we were able to answer some questions regarding proof of concept. We identified peak demand service hours, busiest days and also performed a deep dive into the users to get a feel for the services appeal.
+
+While the data is insightful, more information about Des Moines, Iowa is needed. NYC is a busy, congested and expensive city that has a high population density. To further understand the market, I would compare work commute congestion between NYC and Des Moines and their population density. I think it would also be benificial to see the average commute distances for NYC and Des Moines to see how practical biking would be for work commuters.
+
+
+
